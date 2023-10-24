@@ -6,7 +6,7 @@
 
 　˚　　　　　　　　　　　　　　　　　　　　　ﾟ　　　　　.　　　　　　　　　　　　　　　. 　　 　 🌎 ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ,　 　　　　　　　　　　　　　　* .　　　　　 　　　　　　　　　　　　　　.　　　　　　　　　　 ✦ 　　　　   　 　　　˚　　　　　　　　　　　　　　*　　　　　　   　　　　　　　　　　　　　　　.　　　　　　　　　　　　　　.
 
-![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/theyuunus/blob/output/github-contribution-grid-snake.svg)
 
 # 💫 About Me:
 🔭 I’m currently studying on IT Academy<br>🤝 I'm looking to collaborate on Front-end<br>🙌 I’m looking for help with React<br>🌱 I’m currently learning React<br>💬 Ask me about Front-end<br>⚡ Fun fact I'm Really Funny
