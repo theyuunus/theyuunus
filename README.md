@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Yunus and I'm a Fron-end Developer, from Uzbekiston.</h1>
+<h1 align="center">Hi 👋! My name is Yunus and I'm a Front-end Developer, from Uzbekiston.</h1>
 
 ###
 
@@ -45,12 +45,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=theyuunus&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=theyuunus&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=theyuunus&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=theyuunus&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=theyuunus&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 ---
 [![](https://visitcount.itsvg.in/api?id=theyuunus&icon=2&color=0)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
