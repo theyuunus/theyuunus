@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Yunus and I'm a Front-end Developer, from Uzbekiston</h2>
+<h2 align="center">Hi 👋! My name is Yunus and I'm a Front-end Developer, from Uzbekiston</h2>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-# 💻 Tech Stack:<div align="left">
+# 💻 Tech Stack:<div align="center" display="flex">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
