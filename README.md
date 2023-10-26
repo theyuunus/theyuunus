@@ -52,4 +52,7 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 ---
-[![](https://visitcount.itsvg.in/api?id=theyuunus&icon=2&color=0)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=theyuunus&icon=2&color=9)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
