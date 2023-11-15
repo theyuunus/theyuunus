@@ -61,6 +61,4 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 ---
 
-[![](https://visitcount.itsvg.in/api?id=theyuunus&icon=2&color=9)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=theyuunus&label=Profile%20Views&color=0&pretty=false)](https://github.com/theyuunus)
