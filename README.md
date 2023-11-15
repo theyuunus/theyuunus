@@ -61,4 +61,4 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 ---
 
-[![](https://visitcount.itsvg.in/api?id=theyuunus&label=Profile%20Views&color=0&pretty=false)](https://github.com/theyuunus)
+[![](https://visitcount.itsvg.in/api?id=theyuunus&label=Profile%20Views&color=9&pretty=true)](https://github.com/theyuunus)
