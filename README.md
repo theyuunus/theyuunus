@@ -59,7 +59,7 @@
 
 ## ⚡ Activity Graph
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theyuunus&bg_color=0a0f0b&color=f6f8fa&line=abd200&point=f6f8fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theyuunus&bg_color=0a0f0b&color=f6f8fa&line=abd200&point=f6f8fa&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
