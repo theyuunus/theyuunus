@@ -62,3 +62,7 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=theyuunus&label=Profile%20Views&color=9&pretty=true)](https://github.com/theyuunus)
+
+### Activity Graph
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theyuunus&bg_color=0a0f0b&color=f6f8fa&line=abd200&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
