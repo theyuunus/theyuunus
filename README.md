@@ -91,8 +91,4 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theyuunus&bg_color=0a0f0b&color=f6f8fa&line=abd200&point=f6f8fa&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
----
-
 [![](https://visitcount.itsvg.in/api?id=theyuunus&label=Profile%20Views&color=9&pretty=true)](https://github.com/theyuunus)
