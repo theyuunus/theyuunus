@@ -30,7 +30,7 @@
 ###
 
 # 💫 About Me:
-🔭 I'm currently working as a freelancer<br>🤝 I'm looking to collaborate on Front-end<br>🙌 I’m looking for help with React<br>🌱 I’m currently learning React<br>💬 Ask me about Front-end<br>⚡ Fun fact I'm Really Funny
+🔭 I'm currently working as a Frontend Developer<br>🤝 I'm looking to collaborate on Front-end<br>🙌 I’m looking for help with React<br>🌱 I’m currently learning React<br>💬 Ask me about Front-end<br>⚡ Fun fact I'm Really Funny
 
 ###
 
